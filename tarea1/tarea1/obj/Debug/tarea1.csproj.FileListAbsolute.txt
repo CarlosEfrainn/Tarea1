@@ -1,0 +1,3 @@
+C:\Users\carlo\OneDrive\Documentos\Practicas de c#\tarea1\tarea1\obj\Debug\tarea1.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Practicas de c#\tarea1\tarea1\obj\Debug\tarea1.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\OneDrive\Documentos\Practicas de c#\tarea1\tarea1\obj\Debug\tarea1.csproj.CoreCompileInputs.cache
